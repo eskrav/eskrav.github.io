@@ -1,0 +1,23 @@
+name: ekaterina-kravtchenko
+output_dir: '.'
+navbar:
+  title: Ekaterina Kravtchenko
+  left:
+  - text: Home
+    href: index.html
+  - text: Research
+    href: research.html
+  - text: CV
+    href: cv.pdf
+  right:
+  - icon: fa-envelope
+    href: mailto:eskrav@gmail.com
+  - icon: fa-github
+    href: https://eskrav.github.com
+  - icon: fa-linkedin
+    href: https://www.linkedin.com/in/ekaterina-kravtchenko-4008006b/
+output:
+  html_document:
+    lib_dir: site_libs
+    self_contained: no
+

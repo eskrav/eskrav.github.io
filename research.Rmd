@@ -1,0 +1,51 @@
+---
+title: "Research"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: cosmo
+---
+
+## Papers and manuscripts
+
+Kravtchenko, E., and Demberg, V. (Under revision). Informationally redundant utterances alter prior beliefs about event typicality.
+
+Kravtchenko, E., and Demberg, V. (2015). Semantically underinformative utterances trigger pragmatic inferences. In *Proceedings of the 37th Annual Meeting of the Cognitive Science Society*. [PDF](https://mindmodeling.org/cogsci2015/papers/0213/paper0213.pdf)
+
+Kravtchenko, E. (2014). Predictability and syntactic production: Evidence from subject omission in Russian. In *Proceedings of the 36th Annual Meeting of the Cognitive Science Society*. [PDF](https://mindmodeling.org/cogsci2014/papers/143/paper143.pdf)
+
+Polinsky, M., Gallo, C. G., Graff, P., Kravtchenko, E., Morgan, A.M., and Sturgeon, A. (2012). Subject islands are different. J. Sprouse & N. Hornstein (Eds.), *Experimental Syntax and Island Effects*, Cambridge. [PDF](https://scholar.harvard.edu/mpolinsky/files/15._si_revised.092112.pdf)
+
+Polinsky, M., G&oacute;mez Gallo, C., Graff, P., and Kravtchenko, E. (2011). Subject preference and ergativity. *Lingua* 122(3): 267-277. [PDF](http://scholar.harvard.edu/files/mpolinsky/files/lingua_offprint.pdf?m=1360041223)
+
+Xiang, M., Harizanov, B., Polinsky, M., and Kravtchenko, E. (2011). Processing morphological ambiguity: An experimental investigation of Russian numerical phrases. *Lingua* 121(3): 548-560. [PDF](https://lucian.uchicago.edu/blogs/lpl/files/2012/05/Lingua.pdf)
+
+## Conference talks and posters
+
+Kravtchenko, E., and, Demberg, V. (2018). Does predictability affect pronominalization rates in the passage completion paradigm?. Poster presented at *31st CUNY Conference on Human Sentence Processing*, UC Davis, March 2018.
+
+Kravtchenko, E., Modi, A., Demberg, V., Titov, I., and Pinkal, M. (2017). Does referent predictability affect rate of pronominalization?. Talk presented at *30th CUNY Conference on Human Sentence Processing*, MIT, March 2017. [VIDEO](https://www.youtube.com/watch?v=3xC4xsEhOp4&t=210m37s)
+
+Kravtchenko, E., Modi, A., Demberg, V., Titov, I., and Pinkal, M. (2017). Does UID affect rate of pronominalization?. Talk presented at *Information-theoretic Modeling of Linguistic Variation in Context* workshop at *DGfS 2017*, Saarland University, March 2017.
+
+Kravtchenko, E., and Demberg, V. (2017). Informationally redundant event descriptions alter prior beliefs about event typicality. Poster presented at *CSLI Workshop: Bridging Computational and Psycholinguistic Approaches to the Study of Meaning*, Stanford University, February 2017.
+
+Kravtchenko, E., and Demberg, V. (2016). Informational status of redundant event mentions mediates pragmatic interpretation. Poster presented at *Events in Language and Cognition* workshop at *29th CUNY Conference on Human Sentence Processing*, University of Florida, March 2016.
+
+Kravtchenko, E., and Demberg, V. (2015). Online processing and interpretation of underinformative event mentions. Poster presented at *Discourse Expectations: Theoretical, Experimental, and Computational Perspectives (DETEC)*, University of Alberta, Edmonton, June 2015.
+
+Kravtchenko, E., and Demberg, V. (2015). Underinformative event mentions trigger context-dependent implicatures. Talk presented at *Formal and Experimental Pragmatics: Methodological Issues of a Nascent Liaison (MXPRAG)*, Zentrum f&uuml;r Allgemeine Sprachwissenschaft (ZAS), Berlin, June 2015.
+
+Kravtchenko, E., and Demberg, V. (2015). Underinformative event mentions trigger pragmatic inferences. Poster presented at *28th CUNY Conference on Human Sentence Processing*, University of Southern California, March 2015.
+
+Kravtchenko, E. (2013). Contextual referent predictability affects optional subject omission in Russian. Poster presented at *26th CUNY Conference on Human Sentence Processing*, University of South Carolina, March 2013.
+
+Kravtchenko, E. (2013). Effects of contextual predictability on optional subject omission in Russian. Talk presented at *Annual meeting of the Linguistic Society of America (LSA)*, Boston, January 2013.
+
+Sturgeon, A., Polinsky, M., Harizanov, B., Kravtchenko, E., G&oacute;mez Gallo, C., Medova, L. and Koula, V. (2010). Subject islands in Slavic: The syntactic position matters. Talk presented at *Formal Approaches to Slavic Linguistics (FASL) 19*, University of Maryland, April 2010.
+
+Sturgeon, A., Polinsky, M., Harizanov, B., Kravtchenko, E., G&oacute;mez Gallo, C., Medova, L. and Koula, V. (2010). Revisiting the person case constraint in Czech. Talk presented at *Formal Approaches to Slavic Linguistics (FASL) 19*, University of Maryland, April 2010.
+
+Kravtchenko, E., Xiang, M., and Polinsky, M. (2009). Are all subject islands created equal?. Poster presented at *22nd CUNY Conference on Human Sentence Processing*, UC Davis, March 2009.

@@ -13,7 +13,7 @@ navbar:
   - icon: fa-envelope
     href: mailto:eskrav@gmail.com
   - icon: fa-github
-    href: https://eskrav.github.com
+    href: https://github.com/eskrav
   - icon: fa-linkedin
     href: https://www.linkedin.com/in/ekaterina-kravtchenko-4008006b/
 output:

@@ -5,8 +5,6 @@ navbar:
   left:
   - text: Research
     href: research.html
-  - text: CV
-    href: cv.pdf
   right:
   - icon: fa-envelope
     href: mailto:eskrav@gmail.com

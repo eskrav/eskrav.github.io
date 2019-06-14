@@ -10,7 +10,7 @@ output:
 
 ## Papers and manuscripts
 
-Kravtchenko, E., and Demberg, V. (Under revision). Informationally redundant utterances alter prior beliefs about event typicality.
+Kravtchenko, E., and Demberg, V. (Under revision). Informationally redundant utterances alter prior beliefs about event typicality. [PDF](./research/manuscript.pdf) (*please do not cite without permission)
 
 Kravtchenko, E., and Demberg, V. (2015). Semantically underinformative utterances trigger pragmatic inferences. In *Proceedings of the 37th Annual Meeting of the Cognitive Science Society*. [PDF](https://mindmodeling.org/cogsci2015/papers/0213/paper0213.pdf)
 

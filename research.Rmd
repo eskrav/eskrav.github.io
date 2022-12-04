@@ -8,9 +8,19 @@ output:
     theme: cosmo
 ---
 
+## PhD dissertation
+
+Kravtchenko, E. (2022). Integrating Pragmatic Reasoning in an Efficiency-Based Theory of
+Utterance Choice. [PDF](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/33102)<br>
+Grade: *magna cum laude*
+
 ## Papers and manuscripts
 
-Kravtchenko, E., and Demberg, V. (Under revision). Informationally redundant utterances alter prior beliefs about event typicality. [PDF](./research/manuscript.pdf) (*please do not cite without permission)
+Demberg, V., Kravtchenko, E., and Loy, J.E. (Under revision). A systematic evaluation of factors affecting referring expression choice in passage completion tasks.
+
+Kravtchenko, E., and Demberg, V. (2022). Informationally redundant utterances elicit pragmatic inferences. *Cognition* 225. [PDF](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/34554/1/1-s2.0-S0010027722001470-main.pdf)
+
+Kravtchenko, E., and Demberg, V. (2022). Modeling atypicality inferences in pragmatic reasoning. In *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*. [PDF](https://escholarship.org/content/qt7630p08b/qt7630p08b_noSplash_737b72a73442aaf84918a9f2f42bb1fd.pdf)
 
 Kravtchenko, E., and Demberg, V. (2015). Semantically underinformative utterances trigger pragmatic inferences. In *Proceedings of the 37th Annual Meeting of the Cognitive Science Society*. [PDF](https://mindmodeling.org/cogsci2015/papers/0213/paper0213.pdf)
 

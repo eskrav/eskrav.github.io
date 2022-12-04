@@ -8,7 +8,9 @@ output:
     theme: cosmo
 ---
 
-I'm an experimental and computational psycholinguist currently finishing my PhD at [Saarland University](http://www.coli.uni-saarland.de/).  I primarily use behavioral experiments and probabilistic models to look at how people combine expectations about speaker efficiency, world knowledge, and discourse in interpreting the meaning of complex utterances.
+I'm currently a Data Scientist at [Fraugster](https://www.fraugster.com/), a fraud prevention service for online businesses. I help develop algorithms that detect credit card fraud.
+
+In my previous life, I was an experimental and computational psycholinguist at [Saarland University](http://www.coli.uni-saarland.de/). I primarily used behavioral experiments and probabilistic models to look at how people combine expectations about speaker efficiency, world knowledge, and discourse in interpreting the meaning of complex utterances. You can find my PhD thesis [here](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/33102).
 
 I received my MA in Linguistics from the University of California, Santa Cruz in 2013. After working as a Language Engineer at Intel in Hudson, MA for a year, I moved to Germany in 2014. I am a native English and Russian speaker, and semi-proficient German speaker. 
 

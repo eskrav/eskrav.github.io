@@ -1,12 +1,12 @@
 name: ekaterina-kravtchenko
 output_dir: '.'
 navbar:
-  title: Ekaterina Kravtchenko
+  title: Dr. Ekaterina Kravtchenko
   left:
   - text: Research
     href: research.html
   - text: CV
-    href: cv.pdf
+    href: Kravtchenko_CV.pdf
   right:
   - icon: fa-envelope
     href: mailto:eskrav@gmail.com

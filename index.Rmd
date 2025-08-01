@@ -8,8 +8,8 @@ output:
     theme: cosmo
 ---
 
-I'm currently a Senior Data Scientist at [Fraugster](https://www.fraugster.com/), a fraud prevention service for online businesses. I help develop and deploy algorithms that detect credit card fraud.
+I'm currently a Senior Data Scientist at [Klarna](https://www.klarna.com/), an international payment services provider and bank. I help develop and deploy algorithms that detect account takeover attempts, while minimizing impact on licit login activity. I have also worked as a data scientist in credit card fraud prevention at Fraugster, a former fraud prevention service for online businesses.
 
-Previously, I was an experimental and computational psycholinguist at [Saarland University](http://www.coli.uni-saarland.de/). I primarily used behavioral experiments and probabilistic models to look at how people combine expectations about speaker efficiency, world knowledge, and discourse in interpreting the meaning of complex utterances. You can find my PhD thesis [here](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/33102).
+Before industry, I was an experimental and computational psycholinguist at [Saarland University](http://www.coli.uni-saarland.de/). I primarily used behavioral experiments and probabilistic models to look at how people combine expectations about speaker efficiency, world knowledge, and discourse in interpreting the meaning of complex utterances. You can find my PhD thesis [here](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/33102).
 
-I'm a native English and Russian speaker, and semi-proficient German speaker.  In my off-time, I enjoy hiking, rock climbing, and playing board games.  I like data, sci-fi, and cats.
+I'm a native English and Russian speaker, and fairly proficient German speaker.  In my off-time, I enjoy swimming, hiking, rock climbing, and playing board games.  I like data, sci-fi, and cats.
